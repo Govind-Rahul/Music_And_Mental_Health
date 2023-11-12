@@ -166,14 +166,6 @@ Accuracy, precision, recall of the predictive model.
 
 ### AWS Services Used
 
-- **Amazon S3**: Data storage
-- **Amazon Athena**: Data querying
-- **Amazon QuickSight**: Data visualization
-- **AWS Glue**: ETL processes
-- **Amazon SageMaker**: Model development and training
-- **AWS Lambda** (optional): Pipeline automation
-- **AWS Cost Explorer and Trusted Advisor**: Cost analysis
-
 ## 8. Contributors
 
 ### Team Members
