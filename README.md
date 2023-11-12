@@ -67,25 +67,24 @@ Analyzing correlations between music preferences and mental health to enhance th
 
 ### Summary of 5 key sources
 
-## [Heart Disease Prediction Using Supervised Machine Learning Algorithms: Performance Analysis and Comparison](https://www.sciencedirect.com/science/article/pii/S0010482521004662)
+## [Effects of music on well-being and mental-health](https://diposit.ub.edu/dspace/bitstream/2445/189148/1/TFM-ECO_Roman_2022.pdf)
 
 ### Objective
 
-- **Aim**: To identify the most accurate machine learning classifiers for diagnosing heart disease.
+- **Aim**: Examining the effect of musical practice on improving quality of well-being and mental health, with a focus on proposing public policy initiatives. The study responds to the modern challenges of high social stress levels exacerbated by global events like climate change and the COVID-19 pandemic.
 
 ### Methodology
 
-- **Approach**: Application of various supervised machine learning algorithms (KNN, DT, RF, etc.) to a heart disease dataset from Kaggle.
-- **Focus**: Emphasis on feature importance scores for enhancing predictive accuracy.
+- **Approach**:  Utilizing a quasi-experimental Propensity Score Matching (PSM) technique, with an extensive literature review to understand music's role in health treatments, social integration, and education. The empirical analysis is based on data from the SOEP - Core V37 database, leveraging the SF-12 health questionnaire to assess self-reported health-related quality of life.
 
 ### Results
 
-- **Finding**: Random Forest (RF) method achieved 100% accuracy, sensitivity, and specificity, outperforming other models.
+- **Finding**: Initial OLS regressions indicate that frequency of musical activity is statistically significant in affecting mood, but music lessons outside school do not show a significant statistical impact. Variables such as mathematics grade, gender, and hours of sleep also demonstrate a significant relationship with mental health states. The study acknowledges potential endogeneity issues in OLS regressions, leading to the adoption of PSM for a more nuanced analysis.
 
 ### Implications
 
-- **Significance**: Demonstrates the potential of simple supervised machine learning algorithms in clinical applications for heart disease prediction.
-- **Contribution**: Highlights the effectiveness of machine learning in early heart disease diagnosis, crucial for patient care and treatment planning.
+- **Significance**: Highlights the importance of integrating music-based treatments into public health policies, particularly for enhancing mental health and well-being. The findings also stress the need for robust methodologies in health-related research to ascertain causal relationships.
+- **Contribution**: Offers valuable insights for future research directions and underscores the role of music in aligning with the Sustainable Development Goals and Agenda 2030 of the United Nations. The study also discusses the challenges in finding quality musical variables for research purposes.
 
 ## [Heart Disease Prediction Using Machine Learning Techniques: A Survey](https://www.researchgate.net/publication/325116774_Heart_disease_prediction_using_machine_learning_techniques_A_survey)
 
