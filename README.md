@@ -192,11 +192,11 @@ Addressing privacy concerns, data security, and dealing with biased datasets in 
 
 ## 6. Key Performance Indicators (KPIs)
 
-- Listening Habits
-- Musical Involvement
-- Genre Trends
-- Mental Health Insights
-- Music Impact Analysis
+- Data Completeness
+- Data Cleaning Efficiency
+- Outlier Identification
+- Response Validity
+- Data Distribution Analysis
 
 ## 7. Tools and Technologies (AWS Services)
 
