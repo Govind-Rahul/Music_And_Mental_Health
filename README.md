@@ -178,9 +178,8 @@ Accuracy, precision, recall of the predictive model.
 
 ### Team Members
 
-1. Akhil Rayapati
-2. Hemanth Anumolu
-3. Mahesh Hasbi
-4. Prashanth Sammanu
-5. Saandeep Ippagunta
-
+1. Anudeep Billa
+2. Aasish Chunduri
+3. Govind Rahul Mathamsetti
+4. Neethika Reddy Arepally
+5. Lavanya Krishnan
