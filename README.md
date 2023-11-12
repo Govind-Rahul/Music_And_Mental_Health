@@ -15,21 +15,53 @@
 
 ### Scope
 
-Developing a machine learning model to predict heart attack risks using the Heart Attack Prediction Dataset. The project covers data preprocessing, exploratory data analysis, model training, evaluation, and optimization. AWS services will be used for an end-to-end pipeline.
+The primary objective of the Music x Mental Health project is to explore and establish potential correlations between individual's music preferences and their self-reported mental health status. This involves analyzing how different genres of music might relate to various mental health conditions such as anxiety, depression, insomnia, and OCD.
+
+#### Specific Problem/Task Addressed:
+
+Data Analysis and Correlation Identification: The machine learning component will focus on analyzing the dataset comprising individuals' music listening habits across 16 genres and their self-reported mental health conditions. The task is to identify patterns or correlations that might exist between specific music genres and mental health states.
+
+Predictive Modeling: Based on the identified correlations, the project may also aim to develop predictive models that can suggest potential music therapy interventions for individuals with specific mental health profiles.
 
 ### Business Goal
 
-To aid in proactive strategies for cardiovascular health management and disease prevention.
+To leverage machine learning to uncover insights that can enhance the effectiveness of music therapy as an evidence-based practice for improving mental health.
 
 ## 2. Domain Overview
 
 ### Domain
 
-Healthcare, focusing on cardiovascular health.
+Music Therapy in Mental Health Care.
 
-### Key Stakeholders
+#### Key Characteristics:
 
-Healthcare providers, patients, medical researchers.
+* Interdisciplinary field combining music, psychology, and healthcare.
+* Focus on evidence-based, personalized therapeutic interventions.
+* Involves diverse techniques including listening, composing, and performing music.
+* 
+### Challenges:
+
+* Difficulty in quantifying therapy effectiveness.
+* Lack of standardized approaches.
+* Integration with other mental health treatments.
+* 
+### Opportunities:
+
+* Leveraging AI and machine learning for personalized therapy.
+* Expanding research and evidence base.
+* Growing awareness and acceptance of holistic mental health treatments.
+* Potential for interdisciplinary collaboration.
+* 
+### Specific Problem/Task:
+
+Analyzing correlations between music preferences and mental health to enhance therapy personalization and effectiveness.
+
+### Stakeholders:
+
+* Music Therapists
+* Patients/Clients undergoing music therapy
+* Mental Health Clinicians
+* Healthcare Institutions
 
 ### Challenge Addressed
 
@@ -154,13 +186,21 @@ Prediction of heart attack risks based on lifestyle and health data.
 
 ### Challenges
 
+- One of the big challenges, in order to be able to carry out this work, has been the limited availability of quality musical data.
+- Ensuring high-quality musical data that includes detailed metadata such as genre, artist, and cultural context.
+- Overcoming restrictions in accessing large music databases due to licensing and copyright laws.
+- Managing variability and subjectivity in user-generated data like playlists and self-reported preferences.
+- Dealing with the potential biases in music selection and preference reporting due to cultural and social influences.
+
 Addressing privacy concerns, data security, and dealing with biased datasets in healthcare.
 
 ## 6. Key Performance Indicators (KPIs)
 
-### Success Metrics
-
-Accuracy, precision, recall of the predictive model.
+- Listening Habits
+- Musical Involvement
+- Genre Trends
+- Mental Health Insights
+- Music Impact Analysis
 
 ## 7. Tools and Technologies (AWS Services)
 
