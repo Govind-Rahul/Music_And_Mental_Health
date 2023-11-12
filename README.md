@@ -86,90 +86,78 @@ Analyzing correlations between music preferences and mental health to enhance th
 - **Significance**: Highlights the importance of integrating music-based treatments into public health policies, particularly for enhancing mental health and well-being. The findings also stress the need for robust methodologies in health-related research to ascertain causal relationships.
 - **Contribution**: Offers valuable insights for future research directions and underscores the role of music in aligning with the Sustainable Development Goals and Agenda 2030 of the United Nations. The study also discusses the challenges in finding quality musical variables for research purposes.
 
-## [Heart Disease Prediction Using Machine Learning Techniques: A Survey](https://www.researchgate.net/publication/325116774_Heart_disease_prediction_using_machine_learning_techniques_A_survey)
+## ["Finding Home": Understanding How Music Supports Listeners' Mental Health Through a Case Study of BTS](https://archives.ismir.net/ismir2021/paper/000044.pdf)
 
 ### Objective
 
-- **Aim**: To survey various machine learning models for heart disease prediction and analyze their performance.
+- **Aim**: Investigating how popular music, specifically that of BTS, influences the mental health of its listeners and deriving design implications for commercial music services (CMS). The study addresses the gap in understanding the mental health benefits of music in the field of music information retrieval, focusing on mood regulation, social relationships, and positive emotions and self-esteem enhancements.
 
 ### Methodology
 
-- **Approach**: Examination of models based on supervised learning algorithms such as SVM, KNN, Na√Øve Bayes, DT, RF, and ensemble models.
-- **Focus**: Analysis of the effectiveness of these models in predicting heart disease.
+- **Approach**: Conducting an online survey with 1190 respondents to explore how BTS's music impacts fans' mental health and wellbeing. The study observes patterns of mood regulation and fans’ lived experiences, identifying how BTS's music provides comfort, catalyzes self-growth, and facilitates coping mechanisms.
 
 ### Results
 
-- **Findings**: Different algorithms showed varying levels of performance, with Random Forest and ensemble models performing notably well due to their ability to address overfitting.
-- **Insights**: Na√Øve Bayes was noted for computational efficiency, while SVM showed high performance in most cases.
+- **Findings**: Analysis reveals major themes of comfort, self-growth, and coping through BTS's music. Fans personify songs as friends or companions, experiencing physical sensations of comfort. The lyrics help them balance escapism, distraction, and the permission to feel real experiences. Fans connect with artists beyond music, valuing their authenticity and finding inspiration in their personal stories and messages.
 
-### Conclusion
+### Implications
 
-- **Observations**: Machine learning algorithms have significant potential in predicting cardiovascular diseases.
-- **Future Scope**: Research opportunities exist in handling high-dimensional data, overfitting, and determining the optimal ensemble of algorithms for specific data types.
-
-## [Heart Disease Prediction Using Machine Learning Algorithms](https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012072/pdf)
+- **Significance**: Highlights the potential of integrating music services with visual and non-music media, user-generated content, and metadata related to mood and lyrical content. Emphasizes the need for CMS to foster connections among fans and with artists, supporting diverse emotional states and mental health interventions. Suggests expanding CMS taxonomy to include mood and lyrics for recommendations, thereby enhancing the user experience and supporting mental health through music.
+  
+## [Psychological Effects of Music on Mental Health](https://www.researchgate.net/publication/360396590_Psychological_effects_of_music_on_mental_health)
 
 ### Objective
 
-- **Aim**: To predict heart disease using various machine learning algorithms based on medical history.
+- **Aim**: Investigating the impact of music on mental health, with a focus on using the Positive and Negative Affect Schedule (PANAS) mood scale to transition moods from negative to positive. Emphasizing music's role in stress relief and mental health enhancement, the research underscores music's capability to lower anxiety and blood pressure, and improve memory, mood, and mental alertness.
 
 ### Methodology
 
-- **Approach**: Utilization of logistic regression and KNN for heart disease prediction and classification.
-- **Focus**: Improvement in prediction accuracy using advanced machine learning techniques.
-
+- **Approach**: Employing the PANAS questionnaire to create a database of motivational songs, the study uses a test-retest reliability method. The effectiveness of the selected songs in mood regulation is evaluated by retesting the same group of participants after a one-month interval, with the test-retest correlation between the two sets of scores being a critical measure.
+  
 ### Results
 
-- **Findings**: The model demonstrated high accuracy, with KNN and Logistic Regression showing better performance compared to previous classifiers like Naive Bayes.
-- **Implications**: The model effectively reduces medical care costs and enhances prediction efficiency.
+- **Findings**: Confirming the positive influence of music on mental health through a high test-retest correlation value of +0.93, indicating the songs' appropriateness for the intended emotions. The study creates a database of approximately 500 Hindi songs, categorized into five
+emotional states: happy, angry, sad, fear, and bored. Feedback from 250 participants, aged 18-45, shows that 84% experienced a positive mood change after listening to the songs.
 
-### Conclusion
+### Implications
 
-- **Summary**: The model presents a significant advancement in predicting heart diseases using machine learning, with an average accuracy of 87.5%, outperforming previous models.
+- **Significance**: The research successfully establishes a system for converting negative moods to positive using motivational music, highlighting music's significant impact on mental health and well-being. The positive feedback from a substantial proportion of participants demonstrates the potential of music as a therapeutic tool in mental healthcare, offering practical applications for mood enhancement and stress alleviation.
 
-## [Heart Disease Prediction Using Hybrid Machine Learning Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9358597)
+## [Analysis and Research on the Influence of Music on Students’ Mental Health Under the Background of Deep Learning](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.998451/full)
 
 ### Objective
 
-- **Aim**: To develop a novel hybrid machine learning model for heart disease prediction using the Cleveland dataset.
+- **Aim**: Investigating how music appreciation influences college students' mental health, mental energy, and mental structure. The study is set against the backdrop of deep learning and the recognized role of music in enhancing mental health.
 
 ### Methodology
 
-- **Approach**: Implementation of a hybrid model combining Random Forest and Decision Tree algorithms for heart disease prediction.
-- **Tools**: Use of Python with sklearn, pandas, and matplotlib libraries for modeling and data visualization.
+- **Approach**: Utilizing a multi-evidence method, incorporating deep learning models and data representation, alongside theoretical foundations from psychology and music psychology. The focus is on music appreciation through listening and engaging with music, aiming to evoke specific psychological responses and improve interpersonal skills in students. The methodology involves integrating theoretical knowledge with practical applications in teaching, enhanced by advanced digital technology.
 
 ### Results
 
-- **Findings**: The hybrid model achieved an accuracy of 88.7%, outperforming individual models of Random Forest and Decision Tree.
-- **Implications**: Demonstrates the efficacy of hybrid models in medical diagnosis, specifically for heart disease prediction.
+- **Findings**: Music appreciation is found to significantly promote mental health among students, aiding in the expression of feelings, release of negative emotions, and development of harmonious interpersonal relationships. The research emphasizes the role of music in reducing the stress and anxiety caused by societal pressures, particularly for college students. It also highlights the importance of music education in establishing a comprehensive mental health system for students.
 
-### Conclusion
+### Implications
 
-- **Summary**: The study presents a highly effective approach for heart disease prediction, suggesting that hybrid machine learning models can significantly enhance diagnostic accuracy in healthcare.
+- **Significance**: Underlines the critical role of music education in quality education at colleges and universities, emphasizing its impact on students' mental health. The study suggests that music education, being diversified and multifaceted, can effectively influence and educate students. It also calls for the practical application of research findings in music education to real teaching scenarios, combining theory with practice to enhance the mental health and well-being of students.
 
-### Future Work
-
-- **Next Steps**: Exploration of deep learning algorithms for heart disease prediction and classification of disease levels.
-
-## [Heart Disease Prediction Using Machine Learning](https://www.researchgate.net/publication/351545128_Heart_Disease_Prediction_Using_Machine_Learning)
+## [The State of Music-Based Interventions for Mental Illness: Thought Leaders on Barriers, Opportunities, and the Value of Interdisciplinarity](https://link.springer.com/article/10.1007/s10597-021-00843-4)
 
 ### Objective
 
-- **Aim**: To use machine learning algorithms for the accurate and efficient prediction of heart disease.
+- **Aim**: To explore and address the barriers limiting the application of music as a support for mental health, despite substantial interdisciplinary research. This study brings together leaders from various disciplines to document their understandings and recommendations for the field of music and mental health, examining areas of agreement and conflict.
 
 ### Methodology
 
-- **Approach**: Application of data mining and machine learning techniques like Artificial Neural Network (ANN), Random Forest, and Support Vector Machine (SVM) on heart disease datasets.
-- **Data Source**: Utilization of the Cleveland heart disease dataset for predictive modeling.
+- **Approach**: Conducted as a collaboration between One Mind and the International Arts + Mind Lab at Johns Hopkins University School of Medicine. The study involved a comprehensive international scoping review of literature on music's use in treating serious mental illness (SMI). A think tank comprising thought leaders from diverse fields including psychology, neurology, psychiatry, music media, music therapy, neurosurgery, public health, and policy, as well as individuals with lived experiences with SMIs, was convened. These participants engaged in focus groups to discuss the preliminary findings of the scoping review and to offer interdisciplinary responses.
 
 ### Results
 
-- **Findings**: The study achieved maximum scores of 84.0% with Support Vector Classifier, 83.5% with Neural Network, and 80.0% with Random Forest Classifier.
-- **Implications**: Highlights the potential of machine learning techniques in improving the accuracy of cardiovascular risk prediction.
+- **Findings**: Six themes emerged from the focus group discussions: Barriers to Quality/Improved Research, Disciplinary Differences, Research Recommendations, Implementation and Access, Public Perception and Education, and Need for Training. The discussions highlighted the challenges and opportunities in interdisciplinary work and suggested multiple avenues for advancing research quality, intervention effectiveness, and equitable access to music as a support for mental health.
 
-### Conclusion
+### Implications
 
-- **Summary**: The research underscores the significant scope for machine learning in predicting heart diseases, demonstrating the performance variability of different algorithms in various scenarios.
+- **Significance**: The study emphasizes the need to address how music-based interventions can be implemented and accessed, highlighting concerns about health insurance coverage and necessary policy changes. It underscores the importance of integrating music-based therapies into healthcare, considering the relative lack of adverse side effects in their use for treating mental illnesses. The discussions stress the role of music in mental health and advocate for greater interdisciplinary collaboration to overcome barriers and enhance the effectiveness and accessibility of music-based interventions.
 
 ## 4. Data Sources
 
