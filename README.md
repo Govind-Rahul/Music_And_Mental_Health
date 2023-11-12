@@ -38,20 +38,20 @@ Music Therapy in Mental Health Care.
 * Interdisciplinary field combining music, psychology, and healthcare.
 * Focus on evidence-based, personalized therapeutic interventions.
 * Involves diverse techniques including listening, composing, and performing music.
-* 
+  
 ### Challenges:
 
 * Difficulty in quantifying therapy effectiveness.
 * Lack of standardized approaches.
 * Integration with other mental health treatments.
-* 
+  
 ### Opportunities:
 
 * Leveraging AI and machine learning for personalized therapy.
 * Expanding research and evidence base.
 * Growing awareness and acceptance of holistic mental health treatments.
 * Potential for interdisciplinary collaboration.
-* 
+  
 ### Specific Problem/Task:
 
 Analyzing correlations between music preferences and mental health to enhance therapy personalization and effectiveness.
@@ -62,10 +62,6 @@ Analyzing correlations between music preferences and mental health to enhance th
 * Patients/Clients undergoing music therapy
 * Mental Health Clinicians
 * Healthcare Institutions
-
-### Challenge Addressed
-
-Prediction of heart attack risks based on lifestyle and health data.
 
 ## 3. Literature Review
 
