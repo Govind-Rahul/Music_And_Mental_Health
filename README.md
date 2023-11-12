@@ -148,7 +148,7 @@ Prediction of heart attack risks based on lifestyle and health data.
 
 ### Primary Data Source
 
-[Heart Attack Prediction Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset) from Kaggle.
+[Music and Mental Health Dataset](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results/) from Kaggle.
 
 ## 5. Domain-specific Challenges
 
