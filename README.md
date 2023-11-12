@@ -17,7 +17,7 @@
 
 The primary objective of the Music x Mental Health project is to explore and establish potential correlations between individual's music preferences and their self-reported mental health status. This involves analyzing how different genres of music might relate to various mental health conditions such as anxiety, depression, insomnia, and OCD.
 
-#### Specific Problem/Task Addressed:
+### Specific Problem/Task Addressed:
 
 Data Analysis and Correlation Identification: The machine learning component will focus on analyzing the dataset comprising individuals' music listening habits across 16 genres and their self-reported mental health conditions. The task is to identify patterns or correlations that might exist between specific music genres and mental health states.
 
@@ -33,7 +33,7 @@ To leverage machine learning to uncover insights that can enhance the effectiven
 
 Music Therapy in Mental Health Care.
 
-#### Key Characteristics:
+### Key Characteristics:
 
 * Interdisciplinary field combining music, psychology, and healthcare.
 * Focus on evidence-based, personalized therapeutic interventions.
