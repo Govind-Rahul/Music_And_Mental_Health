@@ -43,7 +43,7 @@ Music Therapy in Mental Health Care.
 
 * Difficulty in quantifying therapy effectiveness.
 * Lack of standardized approaches.
-* Integration with other mental health treatments.
+* Integration with other mental health treatments
   
 ### Opportunities:
 
