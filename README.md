@@ -189,6 +189,11 @@ Addressing privacy concerns, data security, and dealing with biased datasets in 
 
 ### AWS Services Used
 
+- Amazon S3: Data storage
+- Amazon Athena: Data querying
+- Amazon QuickSight: Data visualization
+- AWS Glue: ETL processes
+
 ## 8. Contributors
 
 ### Team Members
