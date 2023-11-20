@@ -203,3 +203,18 @@ Addressing privacy concerns, data security, and dealing with biased datasets in 
 3. Govind Rahul Mathamsetti
 4. Neethika Reddy Arepally
 5. Lavanya Krishnan
+
+### Deliverable 2
+
+
+For Deliverable 2 of our project, we successfully utilized a range of AWS services to manage and process our data efficiently:
+
+Amazon S3: We used Amazon S3 for data storage. Its reliable and scalable nature made it perfect for securely storing our large datasets.
+
+AWS Glue: This service was instrumental for our ETL (Extract, Transform, Load) processes. AWS Glue helped in organizing, cleaning, and consolidating our data, making it ready for analysis.
+
+Amazon Athena: For data querying, we turned to Amazon Athena. It enabled us to run complex queries on our large datasets stored in S3, providing valuable insights efficiently.
+
+Amazon QuickSight: Finally, we used Amazon QuickSight for data visualization. This tool allowed us to create interactive and insightful visual representations of our data, aiding in better understanding and decision-making.
+
+
