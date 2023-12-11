@@ -191,6 +191,7 @@ Addressing privacy concerns, data security, and dealing with biased datasets in 
 
 - Amazon S3: Data storage
 - Amazon Athena: Data querying
+- Amazon SageMaker
 - Amazon QuickSight: Data visualization
 - AWS Glue: ETL processes
 
